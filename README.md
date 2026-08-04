@@ -14,17 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Welcome%20to%20my%20Space%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
+
+<!-- Typing Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Front-End+Developer;Building+Responsive+Web+Apps;Converting+Designs+into+Clean+Code" alt="Typing SVG" />
+  </a>
+</h1>
+
+---
+
+### 👤 About Me
+- 🔭 Currently focused on building clean, mobile-first, and responsive web user interfaces.
+- 🎨 Passionate about converting Figma & modern UI/UX concepts into semantic frontend code.
+- 💼 Open to **full-time remote** web development opportunities and collaborative projects.
+
+---
+
+### 🛠️ Tech & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,figma,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,figma,git,github,vscode&perline=6" />
   </a>
 </p>
+
+---
+
+### 🏆 Achievements & GitHub Activity
+
+<!-- 3D Profile Trophies -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Front-End+Developer;Building+Responsive+Web+Apps;Translating+UI%2FUX+Designs+into+Code" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+<br />
+
+<!-- Streak Stats & Top Languages Side by Side -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&background=0d1117&border=30363d&stroke=2ea043&alarm=da3633" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" width="45%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 💻 Tech Stack:
