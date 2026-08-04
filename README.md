@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,mysql,figma,git,github,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,next,python,java,php,vue,mysql,mongodb,kotlin,django,vite,vercel,figma,git,github,npm,vscode,typescript,wordpress,cloudfare&perline=6" />
   </a>
 </p>
 
