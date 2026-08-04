@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 </h1>
 
 ---
-
-### 👤 About Me
 ### 👨‍💻 About Me
 
 - **Role:** Front-End Web Developer dedicated to building clean, responsive, and performant digital experiences.
@@ -52,14 +50,47 @@ Here are some ideas to get you started:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:hamemapple2018@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://facebook.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mr-hamem">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://threads.net/@mr-hamem">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://pinterest.com/mr-hamem">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/YOUR-INVITE-CODE">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/+8801884211059">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
+
+
+
+
+
 ### 💻 Tech Stack:
 
 <!-- Core & Languages -->
