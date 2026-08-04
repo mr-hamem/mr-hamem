@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hamemapple2018@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
