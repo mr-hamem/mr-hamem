@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Welcome%20to%20my%20Space%20🚀&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Welcome%20to%20my%20Space%20&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Typing Header -->
