@@ -45,24 +45,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🏆 Achievements & GitHub Activity
-
-<!-- 3D Profile Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-<br />
-
-<!-- Streak Stats & Top Languages Side by Side -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&background=0d1117&border=30363d&stroke=2ea043&alarm=da3633" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9" width="45%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
