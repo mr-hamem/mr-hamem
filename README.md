@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hamemapple2018@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -62,19 +62,19 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/mr-hamem">
+  <a href="https://instagram.com/mr_hamem">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://threads.net/@mr-hamem">
+  <a href="https://threads.net/@mr_hamem">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://pinterest.com/mr-hamem">
+  <a href="https://pinterest.com/mr_hamem">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://x.com/YOUR-USERNAME">
+  <a href="https://x.com/@mr_hamem56">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://discord.gg/YOUR-INVITE-CODE">
